@@ -26,5 +26,6 @@
   "dependencies": {
     "@types/node": "^22.0.0",
     "node": "^20.16.0"
-  }
+  },
+  "types": "types/main.d.ts"
 }
